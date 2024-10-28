@@ -12,6 +12,6 @@
 <br><br>
 ・操作方法<br>
 １、sample.txtに解析したいサンプル(フォルダ)名称を縦書きする。<br>
-２、runall.shのCUR_DIR=${HOME}/以降に、これらのファイルを置いているパスを記載する。＜br＞
+２、runall.shのCUR_DIR=${HOME}/以降に、これらのファイルを置いているパスを記載する。<br>
 ３、bash runall.shで実行。<br>
 
